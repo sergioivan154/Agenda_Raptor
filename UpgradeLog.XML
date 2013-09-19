@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Agenda_Raptor">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\ivan\Documents\Windows\Agenda_Raptor\Agenda_Raptor.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\ivan\Documents\Windows\Agenda_Raptor\Agenda_Raptor.suo">
+</Property><Property Name="Date" Value="domingo, 14 de octubre de 2012">
+</Property><Property Name="Time" Value="21:44 p. m.">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Agenda_Raptor.sln" Description="La copia C:\Users\ivan\Documents\Windows\Agenda_Raptor\Agenda_Raptor.sln.old del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="Agenda_Raptor.suo" Description="La copia C:\Users\ivan\Documents\Windows\Agenda_Raptor\Agenda_Raptor.suo.old del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Converting project file 'C:\Users\ivan\Documents\Windows\Agenda_Raptor\Agenda_Raptor\Agenda_Raptor.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Done converting to new project file 'C:\Users\ivan\Documents\Windows\Agenda_Raptor\Agenda_Raptor\Agenda_Raptor.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Agenda_Raptor" Source="Agenda_Raptor\Agenda_Raptor.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Agenda_Raptor.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Agenda_Raptor.sln" Description="Converted">
+</Event></UpgradeLog>

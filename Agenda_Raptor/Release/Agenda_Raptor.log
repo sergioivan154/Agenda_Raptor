@@ -1,0 +1,50 @@
+﻿Compilación iniciada a las 14/10/2012 09:47:19 p. m..
+     1>Proyecto "C:\Users\ivan\Documents\Windows\Agenda_Raptor\Agenda_Raptor\Agenda_Raptor.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Release\Agenda_Raptor.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Se omitirá el destino "GenerateTargetFrameworkMonikerAttribute" porque todos los archivos de salida están actualizados respecto a los archivos de entrada.
+       ClCompile:
+         Se eliminará el archivo "Release\Agenda_Raptor.pch".
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\Agenda_Raptor.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\Agenda_Raptor.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Agenda_Raptor.cpp AssemblyInfo.cpp Contactos.cpp Imagen.cpp reg.cpp Registrarse.cpp /clr:nostdlib 
+         Agenda_Raptor.cpp
+         AssemblyInfo.cpp
+         Contactos.cpp
+         Imagen.cpp
+         reg.cpp
+         Registrarse.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\ivan\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         "C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Contactos.resx,Release\Agenda_Raptor.Contactos.resources Form1.resX,Release\Agenda_Raptor.Form1.resources Imagen.resx,Release\Agenda_Raptor.Imagen.resources reg.resx,Release\Agenda_Raptor.reg.resources
+         Procesando archivo de recursos "Contactos.resx" en "Release\Agenda_Raptor.Contactos.resources".
+         Procesando archivo de recursos "Form1.resX" en "Release\Agenda_Raptor.Form1.resources".
+         Procesando archivo de recursos "Imagen.resx" en "Release\Agenda_Raptor.Imagen.resources".
+         Procesando archivo de recursos "reg.resx" en "Release\Agenda_Raptor.reg.resources".
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\app.res" app.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ivan\Documents\Windows\Agenda_Raptor\Release\Agenda_Raptor.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\Agenda_Raptor.Contactos.resources /ASSEMBLYRESOURCE:Release\Agenda_Raptor.Form1.resources /ASSEMBLYRESOURCE:Release\Agenda_Raptor.Imagen.resources /ASSEMBLYRESOURCE:Release\Agenda_Raptor.reg.resources /MANIFEST /ManifestFile:"Release\Agenda_Raptor.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ivan\Documents\Windows\Agenda_Raptor\Release\Agenda_Raptor.pdb" /SUBSYSTEM:WINDOWS /LTCG /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\Agenda_Raptor.obj
+         Release\AssemblyInfo.obj
+         Release\Contactos.obj
+         Release\Imagen.obj
+         Release\reg.obj
+         Release\Registrarse.obj
+         Release\stdafx.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Generando código
+         Generación de código finalizada
+         Agenda_Raptor.vcxproj -> C:\Users\ivan\Documents\Windows\Agenda_Raptor\Release\Agenda_Raptor.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ivan\Documents\Windows\Agenda_Raptor\Release\Agenda_Raptor.exe;#1" /manifest Release\Agenda_Raptor.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Release\Agenda_Raptor.unsuccessfulbuild".
+         Aplicando tarea Touch a "Release\Agenda_Raptor.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\ivan\Documents\Windows\Agenda_Raptor\Agenda_Raptor\Agenda_Raptor.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:08.93
